@@ -61,3 +61,8 @@ Python | Java | React | Flask | Node.js | MongoDB | Machine Learning
 - GitHub: github.com/borigorlasandeep
 
 ⭐ Always learning and building.
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=borigorlasandeep&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=borigorlasandeep)
